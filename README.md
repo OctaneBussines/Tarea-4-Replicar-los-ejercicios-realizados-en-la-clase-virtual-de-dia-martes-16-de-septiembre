@@ -1,3 +1,11 @@
+INGENIERÍA DE SISTEMAS 
+
+Tarea # 4: Replicar los ejercicios realizados en la clase virtual de dia martes 16 de septiembre
+
+
+Autores:Simon Hernan Siles Rojas
+Tutor: Ing Franklin Riabani Mercado Flores
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
